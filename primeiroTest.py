@@ -1,0 +1,1 @@
+print("este é seu primeiro programa como cientista da computação viaaadoo!")
